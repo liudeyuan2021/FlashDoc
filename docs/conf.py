@@ -163,10 +163,10 @@ todo_include_todos = True
 extensions.append('sphinxcontrib.bibtex')
 
 # Add bibfile
-bibtex_bibfiles = ['references.bib']
+bibtex_bibfiles = []
 
 # Touch the bibliography file to force a rebuild of it
-Path('zz_bibliography.rst').touch()
+# Path('zz_bibliography.rst').touch()
 
 
 # Guzzle theme options (see theme.conf for more information)

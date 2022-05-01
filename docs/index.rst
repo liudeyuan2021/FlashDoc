@@ -41,9 +41,3 @@ FIO Documentation: `https://fio.readthedocs.io/en/latest/index.html <https://fio
     src/vibration/04_trim_data
     src/vibration/05_summary
 
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Miscellaneous
-
-    zz_bibliography
