@@ -1,0 +1,19 @@
+# VS Code
+**/.vscode
+
+# Mac OS
+**/.DS_Store
+
+# Python
+__pycache__
+*.pyc
+/.pytest_cache
+
+# Docs
+docs/generated/plugins.rst
+docs/build/
+docs_backup/
+resources_backup/
+
+# Other
+cmd.txt
