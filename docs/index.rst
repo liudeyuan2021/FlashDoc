@@ -35,12 +35,11 @@ FIO Documentation: `https://fio.readthedocs.io/en/latest/index.html <https://fio
     :caption: Vibration Test
 
     src/vibration/00_introduction
-    src/vibration/01_generate_data
+    src/vibration/01_io_workload
     src/vibration/02_pe_cycle
-    src/vibration/03_store_data
-    src/vibration/04_load_data
-    src/vibration/05_compare_data
-    src/vibration/06_summary
+    src/vibration/03_compare_data
+    src/vibration/04_trim_data
+    src/vibration/05_summary
 
 
 .. toctree::
