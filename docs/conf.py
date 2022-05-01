@@ -78,7 +78,7 @@ rst_prolog = r"""
 master_doc = 'index'
 
 # General information about the project.
-project = 'sr'
+project = 'flash'
 copyright = '2022, Liu Deyuan'
 author = 'Liu Deyuan'
 
@@ -171,7 +171,7 @@ Path('zz_bibliography.rst').touch()
 
 # Guzzle theme options (see theme.conf for more information)
 html_theme_options = {
-    "project_nav_name": "SR"
+    "project_nav_name": "Flash"
 }
 
 # Custom sidebar templates, maps document names to template names.
@@ -266,7 +266,7 @@ html_show_sourcelink = False
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'sr_doc'
+htmlhelp_basename = 'flash_doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -288,7 +288,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sr.tex', 'SR Documentation',
+    (master_doc, 'flash.tex', 'Flash Documentation',
      'Liu Deyuan', 'manual'),
 ]
 
@@ -318,7 +318,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sr', 'SR Documentation',
+    (master_doc, 'flash', 'Flash Documentation',
      [author], 1)
 ]
 
@@ -332,8 +332,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sr', 'SR Documentation',
-     author, 'sr', 'One line description of project.',
+    (master_doc, 'flash', 'Flash Documentation',
+     author, 'flash', 'One line description of project.',
      'Miscellaneous'),
 ]
 
