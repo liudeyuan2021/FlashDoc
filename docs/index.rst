@@ -7,13 +7,13 @@ Flash Retention Test Tools: `https://github.com/liudeyuan2021/Flash-Retention-Te
 
 Flash Vibration Test Tools: `https://github.com/liudeyuan2021/Flash-Vibration-Test-Tools <https://github.com/liudeyuan2021/Flash-Vibration-Test-Tools>`_
 
-调研的SSD设备信息: `SSD(v2).xlsx <../../resources/excel/SSD(v2).xlsx>`_
+调研的SSD设备信息: `SSD(v2).xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/SSD(v2).xlsx>`_
 
-购买的设备信息: `设备清单(v2).xlsx <../../resources/excel/设备清单(v2).xlsx>`_
+购买的设备信息: `设备清单(v2).xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/设备清单(v2).xlsx>`_
 
-补充购买的设备信息: `补充设备清单.xlsx <../../resources/excel/补充设备清单.xlsx>`_
+补充购买的设备信息: `补充设备清单.xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/补充设备清单.xlsx>`_
 
-Optane测试平台的设备信息: `Optane测试平台-设备清单.xlsx <../../resources/excel/Optane测试平台-设备清单.xlsx>`_
+Optane测试平台的设备信息: `Optane测试平台-设备清单.xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/Optane测试平台-设备清单.xlsx>`_
 
 .. toctree::
     :maxdepth: 1
