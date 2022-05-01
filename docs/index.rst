@@ -15,6 +15,8 @@ Flash Vibration Test Tools: `https://github.com/liudeyuan2021/Flash-Vibration-Te
 
 Optane测试平台的设备信息: `Optane测试平台-设备清单.xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/Optane测试平台-设备清单.xlsx>`_
 
+FIO Documentation: `https://fio.readthedocs.io/en/latest/index.html <https://fio.readthedocs.io/en/latest/index.html>`_
+
 .. toctree::
     :maxdepth: 1
     :caption: Retention Test
